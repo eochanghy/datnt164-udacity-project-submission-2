@@ -5,24 +5,6 @@ You will build upon the application we've developed during the lessons in this c
 
 ## Getting Started
 
-You can clone this repo to run the project locally, or navigate to the workspace in the Udacity course.
-
-## Project Instructions
-
-To complete this project, you will need to:
-
-- Set up node environment
-- Create a new endpoint in the server.js file
-- Deploying your system
-
-## Testing
-
-Successful URL responses should have a 200 code. Ensure that you include error codes for the scenario that someone uploads something other than an image and for other common errors.
-
-## License
-
-[License](LICENSE.txt)
-
 # datnt164-udacity-project-submission-2
 
 Endpoint Url: http://projectstartercode-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
